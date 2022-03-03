@@ -1,4 +1,4 @@
-# sumOfPrimes
+# sum-of-primes
 
 This script calculates the sum of primes between an initial and a final value.
 
@@ -16,5 +16,6 @@ node sumOfPrimes.js 3 11
 node sumOfPrimes.js 3 10
 ```
 
-I also wrote a <a href="https://onlinegdb.com/IFsBJ8uX16">Python version</a>.
+I also wrote a Python version.
 
+<a href="https://onlinegdb.com/IFsBJ8uX16">Click to try it online</a>
