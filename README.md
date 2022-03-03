@@ -15,3 +15,6 @@ node sumOfPrimes.js 1 1000
 node sumOfPrimes.js 3 11
 node sumOfPrimes.js 3 10
 ```
+
+I also wrote a <a href="https://onlinegdb.com/IFsBJ8uX16">Python version</a>.
+
