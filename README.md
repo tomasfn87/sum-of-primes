@@ -18,4 +18,4 @@ node sumOfPrimes.js 3 10
 
 I also wrote a Python version.
 
-<a href="https://onlinegdb.com/IFsBJ8uX16">Click to try it online</a>
+<a href="https://onlinegdb.com/5hoybMfGy">Click to try it online</a>
