@@ -1,5 +1,12 @@
 export const sumOfPrimes = (start, end) => {
-    return getListOfPrimes(start, end).reduce(sum)
+    let primes = getListOfPrimes(start, end)
+    if (primes.length > 1) {
+        return primes.reduce(sum)
+    } else if (primes.length == 1) {
+        return primes[0]
+    } else {
+        return 0
+    }
 }
 
 export const markNumber = (number, mark=",") => {
