@@ -16,5 +16,5 @@ node main/main.js 3 11
 node main/main.js 3 10
 ```
 
-I also wrote a <a href="https://onlinegdb.com/5hoybMfGy">Python</a> version.
-<a href="https://onlinegdb.com/5hoybMfGy">Click</a> to try it online
+I also wrote a <a href="https://onlinegdb.com/jnfY4d1ft">Python</a> version.
+<a href="https://onlinegdb.com/jnfY4d1ft">Click</a> to try it online
